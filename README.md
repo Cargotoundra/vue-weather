@@ -1,24 +1,5 @@
 # vue-weather
 
-## Project setup
-```
-npm install
-```
+Projet d'application météo pour smartphone.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Lancé "npm run serve" depuis la racine du projet.
